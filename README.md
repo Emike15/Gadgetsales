@@ -1,7 +1,7 @@
 # SQL-Gadgetsales
 
 ![](GIMG.JPG)
----
+----
 
 ## Introduction
 Mr. Chinedu has a shop where he sells different kinds of gadgets. As a data analyst, I have been granted access to the database file, 'GadgetSales.sql' which contains vital information, with my analysis I have helped to answer crucial questions and concerns about his business.
